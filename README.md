@@ -8,7 +8,7 @@ A simple task management web application built with Django, allowing users to cr
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/vaisagh-mp/Task_Manager.git
 cd task_manager
 ```
 
